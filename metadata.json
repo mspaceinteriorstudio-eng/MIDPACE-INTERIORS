@@ -1,0 +1,5 @@
+{
+  "name": "Midspace Interiors PO Maker",
+  "description": "A professional Purchase Order generation tool for Midspace Interiors with automatic PO numbering, AI-assisted item descriptions, and print-ready templates.",
+  "requestFramePermissions": []
+}
